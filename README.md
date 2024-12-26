@@ -1,4 +1,4 @@
-# Resettare-la-password-e-recuperare-l-account-Windows
+# Resettare la password utente Windows e recuperare i dati
 
 ## Passaggi da fare:
 
