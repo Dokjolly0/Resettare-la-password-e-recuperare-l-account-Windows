@@ -64,7 +64,11 @@ y (save file)
 ```
 reboot
 ```
+- Apri un cmd come amministratore
 - Imposta una nuova password
 ```
-
+net user nomeutente passwordscelta
+exit
 ```
+- Lavoro finito!
+
